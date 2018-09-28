@@ -34,7 +34,7 @@ weight = 5
 +++
 
 # Biography
-I am the second year PhD student at the Virginia Tech Department of Computer Science being advised by Dr. Changhee Jung.
+I am the second year PhD student at the Virginia Tech Department of Computer Science being advised by Dr. [Changhee Jung](https://people.cs.vt.edu/chjung).
 My research interests include high performance computing, architecture/compiler, and intermittent computing.
 Before joining CS@VT, I was a undergraduate/graduate student at Kentucky State University working with Prof. Chi Shen and Prof.Jens Hannemann.
 From 2012 to 2015, I was a research engineer at LG Electronics Car Laboratory studying about high performance embedded system design.

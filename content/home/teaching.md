@@ -16,10 +16,7 @@ weight = 60
 
 +++
 
-# Teaching Assistant
-CS2505 Computer Architecture (Fall 2017)
-CS4284 Capstone Project (Spring 2018)
+# 
+CS2505 Computer Architecture (Fall 2017, Regular TA)
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+CS4284 Capstone Project (Spring 2018, Partial TA)
