@@ -207,6 +207,7 @@ enableGitInfo = false
     publication_format = 3
 
   [params.teaching]
+  	list_children = true
   	
   # Social/Academic Networking
   #
