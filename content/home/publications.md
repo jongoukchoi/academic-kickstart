@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "Choi, Jongouk, et al. Real-time server overloaded monitoring algorithm using back propagation artificial neural network. 2017 IEEE 7th Annual Computing and Communication Workshop and Conference (CCWC). IEEE, 2017."
 
 # Order that this section will appear in.
 weight = 20
