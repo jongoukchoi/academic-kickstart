@@ -44,6 +44,9 @@ filter_default = 0
 +++
 
 Trinity Project (Summer 2018 - Present)
+
 NAPOLEON Project (Fall 2017 - Summer 2018)
+
 NASA EPSCOR Project (Fall 2016 - Summer 2017)
+
 Volkswagen Modular Infotainment Baukasten Project (Summer 2012 - Fall 2015)
