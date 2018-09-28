@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "coffee"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -206,6 +206,8 @@ enableGitInfo = false
     #   3 = MLA
     publication_format = 3
 
+  [params.teaching]
+  	
   # Social/Academic Networking
   #
   # Icon pack "fab" includes the following social network icons:
@@ -269,10 +271,10 @@ enableGitInfo = false
   url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -313,10 +315,10 @@ enableGitInfo = false
     show_logo = false
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
