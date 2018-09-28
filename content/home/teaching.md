@@ -13,7 +13,12 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+
 +++
+
+# Teaching Assistant
+CS2505 Computer Architecture (Fall 2017)
+CS4284 Capstone Project (Spring 2018)
 
 This is an example of using the *custom* widget to create your own homepage section.
 
