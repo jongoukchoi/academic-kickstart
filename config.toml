@@ -154,7 +154,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -186,7 +186,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -206,6 +206,9 @@ enableGitInfo = false
     #   3 = MLA
     publication_format = 3
 
+  [params.teaching]
+  	list_children = true
+  	
   # Social/Academic Networking
   #
   # Icon pack "fab" includes the following social network icons:
@@ -224,25 +227,25 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-#  [[params.social]]
-#    icon = "envelope"
-#    icon_pack = "fas"
-#    link = "mailto:test@example.org"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "mailto:jonchoi@vt.edu"
 
- # [[params.social]]
- #   icon = "twitter"
- #   icon_pack = "fab"
- #   link = "//twitter.com/GeorgeCushen"
+ [[params.social]]
+   icon = "linkedin"
+   icon_pack = "fab"
+   link = "https://www.linkedin.com/in/jongouk-choi"
 
-#  [[params.social]]
-#    icon = "google-scholar"
-#    icon_pack = "ai"
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
 #    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-#  [[params.social]]
-#    icon = "github"
-#    icon_pack = "fab"
-#    link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "//github.com/jonchoi@vt.edu"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -266,13 +269,13 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -313,10 +316,10 @@ enableGitInfo = false
     show_logo = false
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
